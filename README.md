@@ -12,27 +12,27 @@
 #### **Load Test Strategy**
 
 - [Server](https://demoqa.com/BookStore/v1/Books)
-| ![TPS Report](./Images/TPS_REPORT.png) |
+| ![TPS Report](./images/REPORT.png) |
 | :------------------------------------: |
 |              _Actual TPS_              |
 
 #### **JMeter Summary Report**
 - 60 Second, For 167 User.
-| ![Test Case 1](./Images/TEST 1.png) |
+| ![Test Case 1](./images/TEST 1.png) |
 | :----------------------------------:|
 |                                     |
 
 - 300 Second, For 834 User.
-| ![Test Case 2](./Images/TEST 2.png) |
+| ![Test Case 2](./images/TEST 2.png) |
 | :----------------------------------:|
 |                                     |
 -600 Second, for 1667 User.
-| ![Test Case 3](./Images/TEST 3.png) |
+| ![Test Case 3](./images/TEST 3.png) |
 | :----------------------------------:|
 |                                     |
 
 - Test Summary Report - 2500 users for 950 seconds
 
-| ![Test Summary Report](./Images/REPORT.png) |
+| ![Test Summary Report](./images/REPORT.png) |
 | :------------------------------------------: |
 |               _Summary Report_               |
