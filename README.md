@@ -23,24 +23,24 @@
 - 167 users for 60 seconds
 
 | ![Test Case 1](./images/TEST 1.png) |
-| :----------------------------------: |
-|         _60 sec, 167 users_          |
+| :----------------------------------:|
+|         _60 sec, 167 users_         |
 
 - 833 users for 300 seconds
 
 | ![Test Case 2](./images/TEST 2.png) |
-| :----------------------------------: |
-|         _300 sec, 833 users_         |
+| :----------------------------------:|
+|         _300 sec, 833 users_        |
 
 - 1667 users for 600 seconds
 
 | ![Test Case 3](./images/TEST 3.png) |
-| :----------------------------------: |
-|        _600 sec, 1666 users_         |
+| :----------------------------------:|
+|        _600 sec, 1666 users_        |
 
 
 - Test Summary Report - 2500 users for 950 seconds
 
 | ![Test Summary Report](./images/REPORT.png) |
-| :------------------------------------------: |
-|               _Summary Report_               |
+| :------------------------------------------:|
+|               _Summary Report_              |
