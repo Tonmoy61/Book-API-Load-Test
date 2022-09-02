@@ -22,19 +22,19 @@
 
 - 167 users for 60 seconds
 
-| ![Test Case 1](./images/TEST 1.png) |
+| ![Test Case 1](./images/TEST1.png) |
 | :----------------------------------:|
 |         _60 sec, 167 users_         |
 
 - 833 users for 300 seconds
 
-| ![Test Case 2](./images/TEST 2.png) |
+| ![Test Case 2](./images/TEST2.png) |
 | :----------------------------------:|
 |         _300 sec, 833 users_        |
 
 - 1667 users for 600 seconds
 
-| ![Test Case 3](./images/TEST 3.png) |
+| ![Test Case 3](./images/TEST3.png) |
 | :----------------------------------:|
 |        _600 sec, 1666 users_        |
 
