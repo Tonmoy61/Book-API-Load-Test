@@ -1,6 +1,6 @@
 
 # Book-API-Load-Test by Jmeter
-#### **Question**
+### :eight_spoked_asterisk: **Question**
 
 - Find out the actual TPS for if 10000 user can give load within 1 hour **Expected load:** 10000 user, per hour.
 - **Actual load:** what TPS? Breakdown the expected TPS in excel sheet and find out the actual TPS.
@@ -12,7 +12,7 @@
 
 #### **Load Test Strategy**
 
-### :link: [Server](https://demoqa.com/BookStore/v1/Books)
+#### :link: [Server](https://demoqa.com/BookStore/v1/Books)
 
 | ![TPS Report](./images/TPS_REPORT.png) |
 | :------------------------------------: |
