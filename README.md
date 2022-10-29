@@ -10,7 +10,7 @@
 
 #### :link: [**Excel and Word Report**](https://github.com/Tonmoy61/Book-API-Load-Test/tree/main/resources)
 
-#### **Load Test Strategy**
+#### :diamond_shape_with_a_dot_inside: **Load Test Strategy**
 
 #### :link: [Server](https://demoqa.com/BookStore/v1/Books)
 
@@ -18,7 +18,7 @@
 | :------------------------------------: |
 |              _Actual TPS_              |
 
-#### **JMeter Summary Report**
+#### :diamond_shape_with_a_dot_inside: **JMeter Summary Report**
 
 - 167 users for 60 seconds
 
