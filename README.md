@@ -8,11 +8,11 @@
 
 ##### **Solved**
 
-- #### [**Excel and Word Report**](https://github.com/Tonmoy61/Book-API-Load-Test/tree/main/resources)
+#### :link: [**Excel and Word Report**](https://github.com/Tonmoy61/Book-API-Load-Test/tree/main/resources)
 
 #### **Load Test Strategy**
 
-- [Server](https://demoqa.com/BookStore/v1/Books)
+### :link: [Server](https://demoqa.com/BookStore/v1/Books)
 
 | ![TPS Report](./images/TPS_REPORT.png) |
 | :------------------------------------: |
